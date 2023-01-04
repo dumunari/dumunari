@@ -5,6 +5,7 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Installing Istio, Prometheus, Kiali, Jaeger and Grafana as Istio addons and enabling Istio Rolling…](https://medium.com/@dumunari/installing-istio-prometheus-kiali-jaeger-and-grafana-as-istio-addons-and-enabling-istio-rolling-384e4dbaacd?source=rss-2c0a14d4779b------2)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
