@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, My name is Eduardo, but everybody calls me Munari :)</h1>
-<h3 align="center">I'm into DevOps, SRE, Quality and Drumming!</h3>
+<h3 align="center">I'm into Platform Engineering and Drumming!</h3>
 
 - 📝 I (try to) regularly write articles on [https://medium.com/@dumunari](https://medium.com/@dumunari)
 
