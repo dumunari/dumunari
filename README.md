@@ -9,6 +9,7 @@
 - [Minha jornada Kubestronaut](https://medium.com/@dumunari/minha-jornada-kubestronaut-00b26d942527?source=rss-2c0a14d4779b------2)
 - [Crossplane: A brief introduction](https://faun.pub/crossplane-a-brief-introduction-29fa660e0b23?source=rss-2c0a14d4779b------2)
 - [Fluent Bit: A brief introduction](https://faun.pub/fluent-bit-a-brief-introduction-3a9044312fe3?source=rss-2c0a14d4779b------2)
+- [Installing Istio, Prometheus, Kiali, Jaeger and Grafana as Istio addons and enabling Istio Rolling…](https://faun.pub/installing-istio-prometheus-kiali-jaeger-and-grafana-as-istio-addons-and-enabling-istio-rolling-384e4dbaacd?source=rss-2c0a14d4779b------2)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
